@@ -7,5 +7,5 @@
 <!---
 fedefratini/fedefratini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Hi! I'm currently learning how to use frag pipe to anakyse experiment with faims-dia with multiple CV e eventually different DIA windows (differential m/z ranges)
+--->Hi! I'm currently learning how to use fragpipe to analyse experiment with faims-dia with multiple CV end different DIA windows (differential m/z ranges)
 
